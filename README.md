@@ -1,2 +1,2 @@
-# Harmonize-
+# Harmonize
 Connect through music harmony.
